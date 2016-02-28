@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/kristiana/AndroidStudioProjects/Whattoook/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/kristiana/AndroidStudioProjects/Whattoook/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_6484243def173bb8a0e25f1a03cd21a8fbe97cab.jar" />
+    </item>
+    <item
+        jar="/home/kristiana/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/kristiana/AndroidStudioProjects/Whattoook/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_e5e4beba960fc00fbcafe0e1eccd8ad3cf5aa83f.jar" />
+    </item>
+    <item
+        jar="/home/kristiana/AndroidStudioProjects/Whattoook/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/kristiana/AndroidStudioProjects/Whattoook/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_4c6005bf0802586676a724c61bd7a8ed63b1ad6f.jar" />
+    </item>
+    <item
+        jar="/home/kristiana/AndroidStudioProjects/Whattoook/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/kristiana/AndroidStudioProjects/Whattoook/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_e007f16939d11468ad54ed72ededbd10e45df697.jar" />
+    </item>
+    <item
+        jar="/home/kristiana/AndroidStudioProjects/Whattoook/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/kristiana/AndroidStudioProjects/Whattoook/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_f58ecd8aa8744d8e4a72f4a9c3ea439d13d86375.jar" />
+    </item>
+    <item
+        jar="/home/kristiana/AndroidStudioProjects/Whattoook/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/kristiana/AndroidStudioProjects/Whattoook/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_410501cc3a82efc331d184b19527458241979718.jar" />
+    </item>
+
+</items>
